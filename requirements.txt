@@ -1,0 +1,4 @@
+
+fastapi
+uvicorn
+hyperliquid-sdk @ git+https://github.com/hyperliquid-markets/hyperliquid-sdk.git
