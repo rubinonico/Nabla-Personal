@@ -3,7 +3,7 @@
 
 This is a lightweight Python backend service for executing trades via the Hyperliquid SDK.
 
-## 🚀 Deploy (Recommended: Railway)
+##Deploy (Recommended: Railway)
 
 1. Clone this repo or upload the files.
 2. Create a Railway project: https://railway.app
@@ -16,7 +16,7 @@ This is a lightweight Python backend service for executing trades via the Hyperl
 6. Expose port 8000
 7. Test endpoint: POST `/hedge` with JSON payload
 
-## ✅ Example Request
+## Example Request
 
 ```
 POST /hedge
